@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicsDownload", "PicsDownload\PicsDownload.csproj", "{DD04A4B2-C639-42D6-99B6-377521B28BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD04A4B2-C639-42D6-99B6-377521B28BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD04A4B2-C639-42D6-99B6-377521B28BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD04A4B2-C639-42D6-99B6-377521B28BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD04A4B2-C639-42D6-99B6-377521B28BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {708A00F8-095B-4F0D-B871-4483790F3A19}
+	EndGlobalSection
+EndGlobal
